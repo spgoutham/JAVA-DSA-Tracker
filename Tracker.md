@@ -16,12 +16,12 @@
   - [x] Conditionals & Loops in Java
     - [x] if else
     - [x] loops
-    - [ ] Switch statements
+    - [x] Switch statements
   - [x] Data types
   - [x] Coding best practices
-- [ ] Functions
-  - [ ] Introduction
-  - [ ] Scoping in Java
+- [x] Functions
+  - [x] Introduction
+  - [x] Scoping in Java
   - [ ] Shadowing 
   - [ ] Variable Length Arguments
   - [ ] Overloading
