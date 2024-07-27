@@ -22,14 +22,14 @@
 - [x] Functions
   - [x] Introduction
   - [x] Scoping in Java
-  - [ ] Shadowing 
-  - [ ] Variable Length Arguments
-  - [ ] Overloading
-- [ ] Arrays
-  - [ ] Introduction 
-  - [ ] Memory management 
-  - [ ] Input and Output
-  - [ ] ArrayList Introduction
+  - [x] Shadowing 
+  - [x] Variable Length Arguments
+  - [x] Overloading
+- [x] Arrays
+  - [x] Introduction 
+  - [x] Memory management 
+  - [x] Input and Output
+  - [x] ArrayList Introduction
   - [ ] Sorting 
     - [ ] Insertion Sort
     - [ ] Selection Sort
