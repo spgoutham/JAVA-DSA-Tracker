@@ -37,8 +37,8 @@
     - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [x] Searching 
     - [x] Linear Search
-    - [ ] Binary Search
-    - [ ] Modified Binary Search
+    - [x] Binary Search
+    - [x] Modified Binary Search
     - [ ] Binary Search Interview questions
     - [ ] Binary Search on 2D Arrays
 - [ ] Pattern questions
