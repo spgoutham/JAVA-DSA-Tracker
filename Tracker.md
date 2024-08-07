@@ -39,7 +39,7 @@
     - [x] Linear Search
     - [x] Binary Search
     - [x] Modified Binary Search
-    - [ ] Binary Search Interview questions
+    - [x] Binary Search Interview questions
     - [ ] Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
