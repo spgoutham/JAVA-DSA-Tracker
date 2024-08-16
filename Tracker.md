@@ -32,7 +32,7 @@
   - [x] ArrayList Introduction
   - [x] Sorting 
     - [ ] Insertion Sort
-    - [ ] Selection Sort
+    - [x] Selection Sort
     - [x] Bubble Sort
     - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [x] Searching 
