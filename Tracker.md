@@ -34,7 +34,7 @@
     - [x] Insertion Sort
     - [x] Selection Sort
     - [x] Bubble Sort
-    - [ ] Cyclic Sort (Merge sort etc after recursion)
+    - [x] Cyclic Sort (Merge sort etc after recursion)
   - [x] Searching 
     - [x] Linear Search
     - [x] Binary Search
