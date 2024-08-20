@@ -42,11 +42,11 @@
     - [x] Binary Search Interview questions
     - [x] Binary Search on 2D Arrays
 - [ ] Pattern questions
-- [ ] Strings
-    - [ ] Introduction
-    - [ ] How Strings work
-    - [ ] Comparison of methods
-    - [ ] Operations in Strings
+- [x] Strings
+    - [x] Introduction
+    - [x] How Strings work
+    - [x] Comparison of methods
+    - [x] Operations in Strings
     - [ ] StringBuilder in java
 - [ ] Maths for DSA
     - [ ] Introduction
