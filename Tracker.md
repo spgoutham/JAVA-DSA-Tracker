@@ -47,7 +47,7 @@
     - [x] How Strings work
     - [x] Comparison of methods
     - [x] Operations in Strings
-    - [ ] StringBuilder in java
+    - [x] StringBuilder in java
 - [ ] Maths for DSA
     - [ ] Introduction
     - [ ] Complete Bitwise Operators
