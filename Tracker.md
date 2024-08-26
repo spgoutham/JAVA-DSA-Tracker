@@ -41,7 +41,7 @@
     - [x] Modified Binary Search
     - [x] Binary Search Interview questions
     - [x] Binary Search on 2D Arrays
-- [ ] Pattern questions
+- [x] Pattern questions
 - [x] Strings
     - [x] Introduction
     - [x] How Strings work
